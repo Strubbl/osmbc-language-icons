@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="180"
+   height="180"
+   viewBox="0 0 179.99989 180.00002"
+   id="svg2"
+   version="1.1"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="pl.svg"
+   inkscape:export-filename="/home/peuc/OpenStreetMap/International/hebdoOSM/pl.png"
+   inkscape:export-xdpi="9.306818"
+   inkscape:export-ydpi="9.306818"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient6999"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#444444;stop-opacity:1;"
+         offset="0"
+         id="stop6997" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6999"
+       id="linearGradient10231"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(344.42827,1050.2936)"
+       x1="-45.468395"
+       y1="885.11652"
+       x2="45.357578"
+       y2="885.11652" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="80.433396"
+     inkscape:cy="103.41437"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4194"
+     showgrid="false"
+     inkscape:snap-text-baseline="false"
+     inkscape:window-width="2556"
+     inkscape:window-height="1392"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:pagecheckerboard="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1034.3622)">
+    <g
+       id="g4194"
+       transform="matrix(0.12304874,0,0,0.12304874,-0.57645916,927.03646)">
+      <rect
+         ry="247.31949"
+         y="911.62952"
+         x="43.608883"
+         height="1384.4764"
+         width="1384.8311"
+         id="rect4800"
+         style="fill:none;fill-opacity:1;stroke:#888888;stroke-width:76.4946;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-size:1408.66px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient10231);fill-opacity:1;stroke:#444444;stroke-width:8.12686px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="296.52182"
+         y="1982.5452"
+         id="text3931"><tspan
+           sodipodi:role="line"
+           id="tspan3929"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1408.66px;font-family:Economica;-inkscape-font-specification:'Economica Bold';fill:url(#linearGradient10231);fill-opacity:1;fill-rule:nonzero;stroke:#444444;stroke-width:8.12686px;stroke-opacity:1"
+           x="296.52182"
+           y="1982.5452">pl</tspan></text>
+    </g>
+  </g>
+</svg>
