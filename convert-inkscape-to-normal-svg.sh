@@ -5,7 +5,7 @@ for i in tmpl/*.svg
 do
   fn_clean=$(basename -s .svg $i)
   fn=$(basename $i)
-  inkscape --export-type=svg --export-plain-svg -w 18 -h 18 --export-filename=export/$fn $i
+  inkscape --export-type=svg --export-plain-svg --export-filename=export/$fn $i
   sed -i 's/width="180"/width="18"/g' export/$fn
   sed -i 's/height="180"/height="18"/g' export/$fn
   cp export/$fn export/$fn_clean-green.svg
