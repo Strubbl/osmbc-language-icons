@@ -28,7 +28,7 @@ This repository holds the language SVG icons for the weeklyosm.eu website
 
 ### Language code
 
-You need to know the language abbreviation.
+You need to know the language abbreviation, e.g. the [ISO Code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).
 
 
 ### Font install
