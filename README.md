@@ -23,3 +23,21 @@ This repository holds the language SVG icons for the weeklyosm.eu website
 7. Create a pull request to this repository with your new template
 8. Add the icon the weekly backend and to OSMBC
 
+
+## Requirements
+
+### Language code
+
+You need to know the language abbreviation.
+
+
+### Font install
+
+You need to know how to install the font Economica in your operating system in order to use it in Inkscape.
+
+
+### Software
+
+* [Inkscape](https://inkscape.org) for editing the template
+* bash, sed, Inkscape for running the script `convert-inkscape-to-normal-svg.sh`
+
