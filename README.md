@@ -21,7 +21,7 @@ This repository holds the language SVG icons for the weeklyosm.eu website
 5. Edit the file with inkscape
 6. Run the script `./convert-inkscape-to-normal-svg.sh`
 7. Create a pull request to this repository with your new template
-8. Add the icon the weekly backend and to OSMBC
+8. [Add the icon](https://osmbc.openstreetmap.de/osmww/wiki/How-to-add-a-new-language-icon) the weekly backend and to OSMBC
 
 
 ## Requirements
