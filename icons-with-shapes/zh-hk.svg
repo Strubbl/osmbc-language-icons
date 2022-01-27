@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="180"
+   height="180"
+   viewBox="0 0 179.99989 180.00002"
+   id="svg2"
+   version="1.1"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="zh-hk.svg"
+   inkscape:export-filename="/home/peuc/OpenStreetMap/International/hebdoOSM/pl.png"
+   inkscape:export-xdpi="9.306818"
+   inkscape:export-ydpi="9.306818"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient6999"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#444444;stop-opacity:1;"
+         offset="0"
+         id="stop6997" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6999"
+       id="linearGradient2740"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(91.250987,834.2627)"
+       x1="-45.468395"
+       y1="885.11652"
+       x2="45.357578"
+       y2="885.11652" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6999"
+       id="linearGradient2744"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(683.38954,1283.5079)"
+       x1="-45.468395"
+       y1="885.11652"
+       x2="45.357578"
+       y2="885.11652" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="-11.490485"
+     inkscape:cy="103.41437"
+     inkscape:document-units="px"
+     inkscape:current-layer="g23575"
+     showgrid="false"
+     inkscape:snap-text-baseline="false"
+     inkscape:window-width="2556"
+     inkscape:window-height="1392"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:pagecheckerboard="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1034.3622)">
+    <g
+       id="g4194"
+       transform="matrix(0.12304874,0,0,0.12304874,-0.57645916,927.03646)">
+      <rect
+         ry="247.31949"
+         y="911.62952"
+         x="43.608883"
+         height="1384.4764"
+         width="1384.8311"
+         id="rect4800"
+         style="fill:none;fill-opacity:1;stroke:#888888;stroke-width:76.4946;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         id="g23575"
+         transform="translate(131.4039,2.8201401)">
+        <g
+           aria-label="zh"
+           id="text3931"
+           style="font-size:1083.58px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient2740);stroke:#444444;stroke-width:8.12686px">
+          <path
+             d="M 396.59158,1766.5137 H 81.269811 v -75.8506 L 267.64556,1275.652 H 101.85783 q 0,-68.2656 7.58506,-79.1014 8.66864,-11.9194 57.42974,-11.9194 h 216.71599 v 76.9342 L 188.54423,1675.493 h 130.02959 q 58.51332,0 68.26554,11.9193 9.75222,10.8358 9.75222,79.1014 z"
+             style="font-weight:bold;font-family:Economica;-inkscape-font-specification:'Economica Bold'"
+             id="path2746" />
+          <path
+             d="m 595.97035,1701.4989 q 0,48.7611 -11.91938,57.4297 -11.91938,7.5851 -84.51924,7.5851 V 986.3361 q 71.51628,0 83.43566,8.66864 11.91938,7.58506 11.91938,57.42976 v 153.8683 l 84.51924,-29.2566 q 109.44157,0 133.28033,59.5969 23.83876,59.5969 23.83876,241.6383 v 288.2323 q -72.59986,0 -85.60282,-7.5851 -11.91938,-8.6686 -11.91938,-57.4297 v -224.3011 q 0,-101.8565 -5.41789,-141.949 -5.4179,-41.176 -17.33728,-53.0954 -10.8358,-11.9193 -30.34024,-13.0029 l -99.68936,29.2566 9.75222,30.3403 z"
+             style="font-weight:bold;font-family:Economica;-inkscape-font-specification:'Economica Bold'"
+             id="path2748" />
+        </g>
+        <g
+           aria-label="HK"
+           id="text3931-1"
+           style="font-size:541.791px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient2744);stroke:#444444;stroke-width:8.12686px">
+          <path
+             d="m 718.37712,2182.7098 q 0,24.9224 -5.41791,29.2567 -4.87612,3.7925 -33.59104,3.7925 h -11.37762 v -390.0895 h 11.37762 q 28.71492,0 33.59104,4.3343 5.41791,3.7926 5.41791,28.715 v 109.4417 l -2.16717,13.5448 h 89.39552 l -1.62537,-13.5448 v -142.491 h 11.9194 q 28.71493,0 33.59104,4.3343 5.41791,3.7926 5.41791,28.715 v 357.0402 h -10.83582 q -29.7985,0 -35.21641,-3.7925 -4.87612,-4.3343 -4.87612,-29.2567 v -141.4075 l 4.33433,-11.3776 h -94.27164 l 4.33433,12.4612 z"
+             style="font-weight:bold;font-family:Economica;-inkscape-font-specification:'Economica Bold'"
+             id="path2769" />
+          <path
+             d="m 1098.7145,1826.2113 q 6.5015,0.5418 10.8358,3.7925 4.3343,3.2508 4.3343,9.7523 0,5.9597 -81.2686,179.3328 l 95.3552,196.6701 h -16.2537 q -26.5478,0 -36.8418,-4.8761 -9.7522,-5.4179 -18.4209,-24.9224 l -78.5597,-166.8716 91.0209,-193.4194 h 8.1269 q 15.7119,0 21.6716,0.5418 z m -128.40447,32.5075 v 323.991 q 0,24.9224 -5.41791,29.2567 -4.87612,3.7925 -33.59105,3.7925 h -11.37761 v -390.0895 h 11.37761 q 28.71493,0 33.59105,4.3343 5.41791,3.7926 5.41791,28.715 z"
+             style="font-weight:bold;font-family:Economica;-inkscape-font-specification:'Economica Bold'"
+             id="path2771" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
