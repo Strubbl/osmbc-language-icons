@@ -51,5 +51,5 @@ You need to know how to install the font Economica in your operating system in o
 9. Save your file and exit Inkscape
 10. Run the script `./convert-inkscape-to-normal-svg.sh`
 11. Create a pull request to this repository with your new icon
-12. [Add the icon](https://osmbc.openstreetmap.de/osmww/wiki/How-to-add-a-new-language-icon) to the weekly backend and to OSMBC
+12. [Add the icon](https://osmbc.openstreetmap.de/dokuwiki/osmbc:how_to_add_a_new_language_icon) to the weekly backend and to OSMBC
 
