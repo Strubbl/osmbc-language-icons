@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="180"
+   height="180"
+   viewBox="0 0 179.99989 180.00002"
+   id="svg2"
+   version="1.1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="eo.svg"
+   inkscape:export-filename="/home/peuc/OpenStreetMap/International/hebdoOSM/pl.png"
+   inkscape:export-xdpi="9.306818"
+   inkscape:export-ydpi="9.306818"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient6999"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#444444;stop-opacity:1;"
+         offset="0"
+         id="stop6997" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6999"
+       id="linearGradient1451"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(227.51033,1049.8408)"
+       x1="-45.468395"
+       y1="885.11652"
+       x2="45.357578"
+       y2="885.11652" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="80.433396"
+     inkscape:cy="103.54064"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4194"
+     showgrid="false"
+     inkscape:snap-text-baseline="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1034.3622)">
+    <g
+       id="g4194"
+       transform="matrix(0.12304874,0,0,0.12304874,-0.57645916,927.03646)">
+      <rect
+         ry="247.31949"
+         y="911.62952"
+         x="43.608883"
+         height="1384.4764"
+         width="1384.8311"
+         id="rect4800"
+         style="fill:none;fill-opacity:1;stroke:#888888;stroke-width:76.4946;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         d="m 665.59159,1615.8413 -4.22598,-95.7889 c -1.40866,-174.6738 -15.49526,-304.2706 -198.62106,-304.2706 -233.83757,0 -218.34231,112.6928 -218.34231,421.1894 0,250.7415 4.22598,354.9823 218.34231,354.9823 70.433,0 125.37074,-11.2693 194.39508,-23.9472 v -109.8755 c -69.02434,9.8606 -125.37074,14.0866 -194.39508,14.0866 -92.97156,0 -92.97156,-46.4858 -92.97156,-216.9336 l -11.26928,-32.3992 z m -288.7753,-145.092 c 0,-109.8755 8.45196,-135.2314 85.92826,-135.2314 63.3897,0 71.84166,39.4425 73.25032,135.2314 l 14.0866,30.9905 H 365.54701 Z m 400.05907,129.5967 c 0,280.3234 1.40866,391.6075 216.93364,391.6075 216.9336,0 218.3423,-112.6928 218.3423,-391.6075 0,-278.9147 0,-384.5642 -218.3423,-384.5642 -215.52498,0 -216.93364,104.2409 -216.93364,384.5642 z M 993.809,1335.5179 c 91.5629,0 91.5629,73.2504 91.5629,264.8281 0,194.3951 0,271.8714 -91.5629,271.8714 -91.5629,0 -91.5629,-77.4763 -91.5629,-271.8714 0,-191.5777 0,-264.8281 91.5629,-264.8281 z"
+         id="text3931"
+         style="font-weight:bold;font-size:1408.66px;line-height:125%;font-family:Economica;-inkscape-font-specification:'Economica, Bold';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient1451);stroke:#444444;stroke-width:8.12686px"
+         aria-label="eo" />
+    </g>
+  </g>
+</svg>
